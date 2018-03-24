@@ -13,5 +13,15 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/javax.annotation-api.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="D:/zeng files/Programming/apache tomcate/jax-ws ri/jaxws-ri-2.2.10/jaxws-ri/lib/jsr181-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
