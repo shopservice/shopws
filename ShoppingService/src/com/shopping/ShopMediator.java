@@ -55,6 +55,7 @@ public class ShopMediator {
     
 	//
 	//  doBuy: performs mediation function and returns confirm.
+	//  Gonggar add more notes here.
 	//
 	public Confirm doBuy(Order order) {
     	Shiporder shiporder = new Shiporder();
