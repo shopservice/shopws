@@ -2,6 +2,7 @@ package com.shopping;
 
 import java.util.Random;
 
+
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.Entity;
@@ -51,7 +52,11 @@ public class ShopMediator {
         destaccnt = String.valueOf(r.nextInt(999999)+1000000);
     }
     
-    public Confirm doBuy(Order order) {
+    
+	//
+	//  doBuy: performs mediation function and returns confirm.
+	//
+	public Confirm doBuy(Order order) {
     	Shiporder shiporder = new Shiporder();
     	shiporder.setFromaddress("YF1011,Jiaoda East Road,BJTU");
     	shiporder.setToaddress("SY 201, Jiaoda West Road, BJTU");
